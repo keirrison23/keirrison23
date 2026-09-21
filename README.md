@@ -1,16 +1,15 @@
-## Hi there 👋
+Olá! 👋
 
-<!--
-**keirrison23/keirrison23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**keirrison23/keirrison23** é um repositório ✨ _especial_ ✨ porque o seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aqui estão algumas ideias para você começar:
+
+- 🔭 Atualmente estou trabalhando em Estudante
+- 🌱 Atualmente estou aprendendo Informatica para internet
+- 👯 Estou buscando colaborar em Tecnologia
+- 🤔 Estou procurando ajuda com Programação 
+- 💬 Pergunte-me sobre Escola
+- 📫 Como entrar em contato comigo: Email Profissional: keirrison.mariano!aluno.cps.sp.gov.br
+- 😄 Pronomes: ELE/DELE
+- ⚡ Curiosidade: Mestre no freefire.
