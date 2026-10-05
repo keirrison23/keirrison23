@@ -1,15 +1,22 @@
-Olá! 👋
+Olá! 👋 Eu sou o Keirrison
 
+Seja bem-vindo ao meu perfil! 🚀
 
-**keirrison23/keirrison23** é um repositório ✨ _especial_ ✨ porque o seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
+Sou estudante de Informática para Internet e tenho interesse em tecnologia, programação e desenvolvimento. Atualmente, estou focado em aprender cada vez mais, colocar meus conhecimentos em prática e evoluir através de projetos e experiências.
 
-Aqui estão algumas ideias para você começar:
+💻 Estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades em programação. Ainda estou no começo da minha jornada na área, mas tenho muita vontade de crescer, aprender com outras pessoas e participar de projetos que possam contribuir para minha evolução.
 
-- 🔭 Atualmente estou trabalhando em Estudante
-- 🌱 Atualmente estou aprendendo Informatica para internet
-- 👯 Estou buscando colaborar em Tecnologia
-- 🤔 Estou procurando ajuda com Programação 
-- 💬 Pergunte-me sobre Escola
-- 📫 Como entrar em contato comigo: Email Profissional: keirrison.mariano@aluno.cps.sp.gov.br
-- 😄 Pronomes: ELE/DELE
-- ⚡ Curiosidade: elite no freefire.
+🤝 Tenho interesse em colaborar com projetos relacionados à tecnologia e conhecer pessoas que também gostam de programação e desenvolvimento. Acredito que compartilhar conhecimentos e trabalhar em equipe são ótimas formas de evoluir.
+
+🎓 Fora da programação, minha rotina envolve bastante estudo e aprendizado. E, para equilibrar tudo isso, também curto jogar Free Fire — inclusive, sou Elite no jogo. 🎮🔥
+
+📫 Contato profissional:
+keirrison.mariano@aluno.cps.sp.gov.br
+
+🎯 Meu objetivo
+
+Meu objetivo é continuar aprendendo, desenvolver projetos cada vez melhores e construir meu caminho profissional na área de tecnologia.
+
+"Todo grande desenvolvedor começou escrevendo seu primeiro código." 💻🚀
+
+Obrigado por visitar meu perfil! ⭐
